@@ -1,10 +1,10 @@
-
-import './App.css';
+import OpinionRating from './Component';
 
 function App() {
   return (
-    <div className="App"> Maximino
-    </div>
+    <>
+    <OpinionRating />
+    </>
   );
 }
 
