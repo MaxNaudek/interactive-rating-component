@@ -5,9 +5,6 @@ import './OpinionComponent.css';
 
 function OpinionRating(){
 
-  const useTest=()=>{
-    
-  }
     const [change, setchange] = useState(false);
     const [change2, setchange2] = useState(false);
     const [change3, setchange3] = useState(false);
