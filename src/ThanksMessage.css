@@ -1,0 +1,24 @@
+/* ::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 0 auto; 
+
+    /* font-size: 40px; */
+    /* background-color: white */
+}
+.invoice{
+    width: 10%;
+}
+/* .info{
+
+}
+.thankYou{
+
+} */
